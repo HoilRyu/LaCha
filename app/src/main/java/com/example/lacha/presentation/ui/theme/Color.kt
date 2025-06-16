@@ -1,4 +1,4 @@
-package com.example.lacha.ui.theme
+package com.example.lacha.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
